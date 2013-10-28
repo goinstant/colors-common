@@ -1,0 +1,19 @@
+{
+  "name": "colors-common",
+  "repo": "goinstant/colors-common",
+  "description": "Helper functions for the GoInstant user-colors widget.",
+  "version": "1.0.0",
+  "keywords": [
+    "GoInstant",
+    "widget",
+    "colors-common"
+  ],
+  "dependencies": {},
+  "development": {
+    "lodash/lodash": "*"
+  },
+  "main": "colors.js",
+  "scripts": [
+    "colors.js"
+  ]
+}
