@@ -22,7 +22,7 @@ colors.REGEX = /^#([0-9A-F]{6}|[0-9A-F]{3})$/i;
  * The default color to use when no color is assigned to the user.
  * @const
  */
-colors.DEFAULT = '#aaa';
+colors.DEFAULT = '#8b8f96';
 
 /**
  * The default set of goinstant colors.
