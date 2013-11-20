@@ -30,10 +30,10 @@ colors.DEFAULT = '#8b8f96';
  */
 colors.DEFAULTS = [
   '#3bb200',
-  '#fc2a29',
+  '#E73E3D',
   '#06b8de',
   '#e6c615',
-  '#7151e8',
+  '#8B72E9',
   '#8fe62e',
   '#f60889',
   '#51e8c3',
